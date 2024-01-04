@@ -53,7 +53,7 @@ public class ValidacoesStringTests
         Assert.False(true);
     }
 
-    //TODO: Corrigir a anotação [Fact]
+    [Fact]//TODO: Corrigir a anotação [Fact]
     public void TextoDeveTerminarComAPalavraProcurado()
     {
         //TODO: Corrigir a variável "textoProcurado" seção Arrange
