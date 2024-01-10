@@ -58,7 +58,7 @@ namespace TestesUnitarios.Desafio.Tests
 
             // Act
             var resultado = _validacoes.TextoTerminaCom(texto, textoProcurado);
-
+ 
             // Assert
             Assert.True(resultado);
         }
