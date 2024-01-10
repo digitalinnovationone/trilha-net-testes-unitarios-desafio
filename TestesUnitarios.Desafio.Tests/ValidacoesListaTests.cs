@@ -22,7 +22,6 @@ namespace TestesUnitarios.Desafio.Tests
             // Assert
             Assert.Equal(resultadoEsperado, resultado);
         }
-
         [Fact]
         public void DeveConterONumero9NaLista()
         {
