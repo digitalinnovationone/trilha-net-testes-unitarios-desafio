@@ -1,0 +1,172 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Tests\\TestesUnitarios.Desafio.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Console\\TestesUnitarios.Desafio.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Console\\TestesUnitarios.Desafio.Console.csproj",
+        "projectName": "TestesUnitarios.Desafio.Console",
+        "projectPath": "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Console\\TestesUnitarios.Desafio.Console.csproj",
+        "packagesPath": "C:\\Users\\julii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\julii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Tests\\TestesUnitarios.Desafio.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Tests\\TestesUnitarios.Desafio.Tests.csproj",
+        "projectName": "TestesUnitarios.Desafio.Tests",
+        "projectPath": "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Tests\\TestesUnitarios.Desafio.Tests.csproj",
+        "packagesPath": "C:\\Users\\julii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\julii\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Console\\TestesUnitarios.Desafio.Console.csproj": {
+                "projectPath": "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Console\\TestesUnitarios.Desafio.Console.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
