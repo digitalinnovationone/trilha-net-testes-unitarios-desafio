@@ -1,0 +1,15 @@
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.exe
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.deps.json
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.runtimeconfig.json
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfoInputs.cache
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.AssemblyInfo.cs
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.csproj.CoreCompileInputs.cache
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.sourcelink.json
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.dll
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\refint\TestesUnitarios.Desafio.Console.dll
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.pdb
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\TestesUnitarios.Desafio.Console.genruntimeconfig.cache
+C:\Users\julii\Downloads\Cesar School\TestesUnitarios\TestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net6.0\ref\TestesUnitarios.Desafio.Console.dll
