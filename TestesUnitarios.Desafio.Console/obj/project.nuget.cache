@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OjzOm6tEY7ehE69J3JET8gxwdKI/PjrPPzWocTeGNHHOZ2cd9Z+djfEOnJRqHjfRjdYVnV7pJCMgg/x/4pTs7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julii\\Downloads\\Cesar School\\TestesUnitarios\\TestesUnitarios\\TestesUnitarios.Desafio.Console\\TestesUnitarios.Desafio.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julii\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\julii\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\julii\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\julii\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
