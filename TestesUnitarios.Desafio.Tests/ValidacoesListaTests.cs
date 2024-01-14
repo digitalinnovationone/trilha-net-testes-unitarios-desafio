@@ -8,7 +8,7 @@ public class ValidacoesListaTests
 
     public ValidacoesListaTests()
     {
-        _validacoes = new ValidacoesLista;
+        _validacoes = new ValidacoesLista();
     }
 
     [Fact]
@@ -52,7 +52,7 @@ public class ValidacoesListaTests
         // Act
         bool contem = _validacoes.ListaContemDeterminadoNumero(lista, numeroParaProcurar);
         // Assert
-        Assert.True(contem);
+        Assert.False(contem);
     }
 
     //TODO: Corrigir a anotação [Fact]
