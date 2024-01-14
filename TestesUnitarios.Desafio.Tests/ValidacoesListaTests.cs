@@ -94,12 +94,12 @@ public class ValidacoesListaTests
 
         // Arrange
         var lista = new List<int> { 5, -1, -8, 9 };
-
+        var numero = -8;
         // Act
         var resultado = _validacoes.RetornarMenorNumeroLista(lista);
 
         // Assert
         //TODO: Corrigir o Assert.Equal com base no retorno da chamada ao método
-        Assert.Equal(-8, -8);
+        Assert.Equal(numero, resultado);
     }
 }
