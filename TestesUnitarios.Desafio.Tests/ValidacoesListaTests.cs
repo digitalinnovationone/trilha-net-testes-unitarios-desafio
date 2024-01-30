@@ -95,4 +95,15 @@ public class ValidacoesListaTests
         //TODO: Corrigir o Assert.Equal com base no retorno da chamada ao método
         Assert.Equal(-8, resultado);
     }
+
+    [Theory]
+    [InlineData(new [] { 1, 3, 7, 9 })]
+    [InlineData(new [] { 4, 6, 7, 8 })]
+    [InlineData(new [] { 1, 2, 7, 9 })]
+    [InlineData(new [] { 2, 3, 4, 6 })]
+    public void NaoDeveConterNumero5NaLista(int[] array)
+    {
+        // Act // Assert
+        Assert.All(array, num => Assert.False(_validacoes.ListaContemDeterminadoNumero(array.ToList(), 5)));
+    }
 }
