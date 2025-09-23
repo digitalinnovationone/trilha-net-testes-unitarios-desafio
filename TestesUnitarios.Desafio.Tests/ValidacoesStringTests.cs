@@ -12,7 +12,7 @@ public class ValidacoesStringTests
         //TODO: Corrigir a variável "texto" e "resultadoEsperado" da seção Arrange
 
         // Arrange
-        var texto = "a";
+        var texto = "x";
         var resultadoEsperado = 0;
 
         // Act
